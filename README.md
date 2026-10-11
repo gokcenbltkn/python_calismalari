@@ -1,1 +1,1 @@
-# python_calismalarim
+# python_calismalari
